@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перечисления", "Перечисления\Перечисления.csproj", "{3CF0E891-3E2C-4D33-B9E4-83E2FC61022B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Перечисления", "Перечисления\Перечисления.csproj", "{3CF0E891-3E2C-4D33-B9E4-83E2FC61022B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Работа с файлами", "Работа с файлами\Работа с файлами.csproj", "{6A57B3C9-4969-4C1F-B3D2-F9624B741954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Считывание данных с файла", "Считывание данных с файла\Считывание данных с файла.csproj", "{46D700F9-EADF-425F-B2B1-BA57B2F88936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вычисление зп с учетом переработок", "Вычисление зп с учетом переработок\Вычисление зп с учетом переработок.csproj", "{D3AA4FCA-D737-455B-87F3-60A7FA76DD6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вычисление синуса", "Вычисление синуса\Вычисление синуса.csproj", "{1BD3FD44-F87A-4D1D-A939-D359AA332142}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Циклы", "Циклы\Циклы.csproj", "{AA932FD2-C140-4A22-B72A-26B7039EF373}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{3CF0E891-3E2C-4D33-B9E4-83E2FC61022B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CF0E891-3E2C-4D33-B9E4-83E2FC61022B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CF0E891-3E2C-4D33-B9E4-83E2FC61022B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A57B3C9-4969-4C1F-B3D2-F9624B741954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A57B3C9-4969-4C1F-B3D2-F9624B741954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A57B3C9-4969-4C1F-B3D2-F9624B741954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A57B3C9-4969-4C1F-B3D2-F9624B741954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46D700F9-EADF-425F-B2B1-BA57B2F88936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46D700F9-EADF-425F-B2B1-BA57B2F88936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46D700F9-EADF-425F-B2B1-BA57B2F88936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46D700F9-EADF-425F-B2B1-BA57B2F88936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3AA4FCA-D737-455B-87F3-60A7FA76DD6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AA4FCA-D737-455B-87F3-60A7FA76DD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AA4FCA-D737-455B-87F3-60A7FA76DD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AA4FCA-D737-455B-87F3-60A7FA76DD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD3FD44-F87A-4D1D-A939-D359AA332142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD3FD44-F87A-4D1D-A939-D359AA332142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD3FD44-F87A-4D1D-A939-D359AA332142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD3FD44-F87A-4D1D-A939-D359AA332142}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA932FD2-C140-4A22-B72A-26B7039EF373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA932FD2-C140-4A22-B72A-26B7039EF373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA932FD2-C140-4A22-B72A-26B7039EF373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA932FD2-C140-4A22-B72A-26B7039EF373}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
